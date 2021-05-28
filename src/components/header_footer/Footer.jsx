@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="footer_copyright">
                     Made with  
                 <span style={{color : 'crimson'}}>♥</span> By 
-                <a href="http://www.github.com/Jatin-8898" target="_blank"           rel="noopener noreferrer"> Jatin Varlyani 
+                <a href="http://www.github.com/Jatin-8898" target="_blank"           rel="noopener noreferrer"> Mustafizur Rahman
                 </a>
                 
                 </div>
