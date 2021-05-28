@@ -9,10 +9,6 @@ A Simple React Quiz App which contains the 7 MCQ’s which have 4 options in eac
 
 ## 📝 Usage
 
-### Clone this Repo
-```
-git clone https://github.com/Jatin-8898/react-quiz-app.git
-```
 ### Installation
 
 ```sh
